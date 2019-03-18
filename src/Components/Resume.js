@@ -46,7 +46,7 @@ class Resume extends Component {
                <div className="twelve columns">
                  {education}
                </div>
-               <div class="info"> for more info about my education and certifications, please visit my LinkedIn profile</div>
+               <div className="info"> for more info about my education and certifications, please visit my LinkedIn profile</div>
             </div>
          </div>
       </div>

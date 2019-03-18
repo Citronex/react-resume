@@ -34,7 +34,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here is a list of the tools I use with enough propficiency to get things done on my own",
+    "skillmessage":"Here is a list of the tools I use with enough propficiency to get things done",
     "work":[
       {
         "company":"Booker by MINDBODY",
@@ -109,46 +109,44 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Memory Game",
+        "category":"Browser-based card matching game",
+        "image":"memoryGame.png",
+        "url":"https://citronex.github.io/Udacity-FEND-Project2-Memory-game/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Arcade Game",
+        "category":"JavaScript Arcade Game",
+        "image":"arcadeGame.png",
+        "url":"https://citronex.github.io/FEND-Project3-Arcade-Game/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Jasmin Testing Framework",
+        "category":"Behavior-Driven JavaScript",
+        "image":"jasmin.png",
+        "url":"https://citronex.github.io/frontend-nanodegree-feedreader/index.html"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"My Reads",
+        "category":"A React based reading-list tracker",
+        "image":"myReadsApp.png",
+        "url":"https://citronex.github.io/myreads"
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"I have worked with Francisco for over two years and he is the most diligent QA analyst I've ever worked with. He is excellent at taking a user story and finding the best way to rigorously test the scenarios; be it with automation or manual testing. Francisco is well respected by his peers and has mentored several other QA analysts. I whole heartedly recommend him for any Mobile QA position.",
+        "user":"Gabe Giosia - Software Engineer at Google"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"Francisco has great attention to detail and a skilled eye for design and good user experience. Beyond just finding defects, he focuses on improving the quality of the product by working closely with both developers and product managers. I have had the pleasure of working along side him and it has made me a better developer.",
+        "user":"Joe Bramhall - iOS Engineer at The New York Times"
+      },
+      {
+        "text":"Working with Francisco for the past two years has been a tremendous experience. He thinks of scenarios that I never even considered and his deep analysis to detail is beyond amazing. Working with Francisco has made me a better engineer and any team will be lucky to have him.",
+        "user":"Sage Ventour - API Engineer at Vimeo"
       }
     ]
   }
